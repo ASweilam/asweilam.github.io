@@ -4,7 +4,7 @@ permalink: /AboutMe/
 date: 2019-10-24T03:02:20+00:00
 ---
 
-Ciao, I am software engineer by day and a human by night. I was born in the late [eighties](https://en.wikipedia.org/wiki/1980s), making me a member of the Millennial species, growing up in the world, not the neighnorhood. I am still thinking about what to write here in my bio, trust me "it is not easy". So I will take the typical boring approach of just talk about my "story". 
+Ciao, I am software engineer by day and a human by night. I was born in the late [eighties](https://en.wikipedia.org/wiki/1980s), growing up in the world, not the neighnorhood. I am still thinking about what to write here in my bio, trust me "it is not easy". So I will take the typical boring approach of just talk about my "story". 
 
 ![Me funny](..\assets\images\costanza.gif) 
 
