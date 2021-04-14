@@ -20,7 +20,7 @@ title                    : "A.Sweilam"
 title_separator          : "-"
 subtitle                 : "Bits & Bytes"
 name                     : "A. Sweilam"
-description              : "An amazing website."
+description              : "My cool website."
 url                      : "https://asweilam.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "A. Sweilam"
   avatar           : "/assets/images/bio_photo1.jpg"
-  bio              : "Software Engineer @ Scottish Forestry. I am interested in all things tech."
+  bio              : "Software Engineer @ Scottish Government, interested in all things tech."
   location         : "Edinburgh, Scotland"
   email            :
   links:
