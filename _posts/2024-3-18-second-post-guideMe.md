@@ -9,9 +9,9 @@ tags:
 ---
 
 ### Conditions I like to work in
-- quiet workspace
+- interactive workspaces (not quiet but not very noisy)
 - clear communications
-- friendly vibes
+- friendly vibe
 
 ### Times / hours I like to work
 - Monday - Friday. 9AM - 5PM
@@ -24,11 +24,11 @@ tags:
 - calls for more in depth discussions
 
 ### How I best receive feedback
-- honest, direct and as soon as possible!
+- honest, direct and as soon as possible
 
 ### Things I struggle with
 - very long meetings
-- red tape
+- resistence to try new things without a clear argument
 
 ### Things I love
 - pragmatism
