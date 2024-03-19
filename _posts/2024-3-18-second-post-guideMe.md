@@ -10,12 +10,12 @@ tags:
 
 ### Conditions I like to work in
 - quiet workspace
-- clear communications.
-- friendly vibes.
+- clear communications
+- friendly vibes
 
 ### Times / hours I like to work
 - Monday - Friday. 9AM - 5PM
-- techie discussions, probably better in the morning.
+- techie discussions, probably better in the morning
 - afternoon, it is implementation time
 
 ### Best ways to communicate with me
